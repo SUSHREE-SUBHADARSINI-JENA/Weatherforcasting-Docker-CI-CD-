@@ -27,6 +27,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: mamali495/node-ci-cd-app:latest
+        tags: sushreesubhadarsini.02@gmail.com/node-ci-cd-app:latest
 
         
