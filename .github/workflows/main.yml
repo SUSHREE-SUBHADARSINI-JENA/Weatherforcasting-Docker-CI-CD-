@@ -28,6 +28,3 @@ jobs:
         context: .
         push: true
         tags: Mamali495/node-ci-cd-app:latest
-
-    - name: Deploy (Optional: depends on where you're hosting)
-      run: echo "Deployment step (e.g., ssh to server or call API)"
