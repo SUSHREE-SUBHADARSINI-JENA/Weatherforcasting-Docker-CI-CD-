@@ -28,3 +28,5 @@ jobs:
         context: .
         push: true
         tags: mamali495/node-ci-cd-app:latest
+
+        
